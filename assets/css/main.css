@@ -345,18 +345,14 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #172c67;
 	}
 	
-	h2n{
-		color:#172c67;
+	p {
+	color: #172c67;
 	}
 	
-	h3n{
-		color:#172c67;
-	}
-	
-	
+		
 
 	blockquote {
 		border-left-color: rgba(0, 0, 0, 0.2);
@@ -2739,7 +2735,18 @@ input, select, textarea {
 			ul.alt li {
 				border-top: solid 1px;
 				padding: 0.5rem 0;
+				
 			}
+			
+			ul.alt1 {list-style:none;
+			padding-left:0;
+			color: #172c67;}
+			
+			ul.alt1 li{
+				border-top: solid 1px;
+			padding: 0.5rem 0;}
+			
+			
 
 				ul.alt li:first-child {
 					border-top: 0;

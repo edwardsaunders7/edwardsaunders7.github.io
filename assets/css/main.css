@@ -8650,7 +8650,7 @@ input, select, textarea {
 		
 		#wrapper > .imageAchievements {
 			background-image: url("Achievements.jpg");
-			background-size:cover;
+			background-size:contain;
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;

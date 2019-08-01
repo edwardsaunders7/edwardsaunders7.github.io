@@ -236,6 +236,10 @@ input, select, textarea {
 	h2n {
 			font-size: 2.25rem;
 		}
+		
+	h3n {
+			fontsixe: 1.5rem;
+	}
 
 	sub {
 		font-size: 0.8rem;
@@ -345,7 +349,11 @@ input, select, textarea {
 	}
 	
 	h2n{
-		color:#FF0000;
+		color:#172c67;
+	}
+	
+	h3n{
+		color:#172c67;
 	}
 	
 	

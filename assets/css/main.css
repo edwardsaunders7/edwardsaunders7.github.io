@@ -309,6 +309,10 @@ input, select, textarea {
 		p.major {
 			font-size: 1.1rem;
 		}
+		
+		p1{
+		 font-size:1.1rem;	
+		}
 
 		h1 {
 			font-size: 2.5rem;
@@ -351,6 +355,10 @@ input, select, textarea {
 	
 	p {
 	color: #172c67;
+	}
+	
+	p1 {
+		color:#ffffff;
 	}
 	
 		

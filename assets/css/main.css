@@ -8609,8 +8609,8 @@ input, select, textarea {
 		#wrapper > .imageSkills {
 			background-image: url("images/Skills.jpg");
 			background-attachment: fixed;
-			/* background-position: center; */
-			background-repeat: no-repeat;
+			background-position: center;
+			/* background-repeat: no-repeat; */
 			background-size: cover;
 		}
 			

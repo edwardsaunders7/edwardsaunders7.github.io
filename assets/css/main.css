@@ -194,8 +194,7 @@ input, select, textarea {
 		p.major {
 			font-size: 1.25rem;
 		}
-		p.alt{ font-size:1.25rem;
-		}
+		
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
@@ -340,7 +339,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #000000;
+		color: #172c67;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -350,10 +349,6 @@ input, select, textarea {
 	
 	p {
 	color: #172c67;
-	}
-	
-	p.alt {
-		color:#000000;
 	}
 	
 		
@@ -8603,7 +8598,7 @@ input, select, textarea {
 			
 				
 		#wrapper > .imageExperience {
-			background-image: url("Experience.jpg");
+			background-image: url("images/Experience.jpg");
 			background-size:cover;
 			background-attachment: fixed;
 			background-position: center;
@@ -8612,7 +8607,7 @@ input, select, textarea {
 		}
 		
 		#wrapper > .imageSkills {
-			background-image: url("Skills.jpg");
+			background-image: url("images/Skills.jpg");
 			background-attachment: fixed;
 			/* background-position: center; */
 			background-repeat: no-repeat;
@@ -8620,7 +8615,7 @@ input, select, textarea {
 		}
 			
 		#wrapper > .imageReferences {
-			background-image: url("References.jpg");
+			background-image: url("images/References.jpg");
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
@@ -8629,7 +8624,7 @@ input, select, textarea {
 		}
 		
 		#wrapper > .imageAboutMe {
-			background-image: url("AboutMe.jpg");
+			background-image: url("images/AboutMe.jpg");
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -8637,7 +8632,7 @@ input, select, textarea {
 		}
 		
 		#wrapper > .imageAchievements {
-			background-image: url("Achievements.jpg");
+			background-image: url("images/Achievements.jpg");
 			background-size:cover;
 			background-attachment: fixed;
 			background-position: center;

@@ -2588,8 +2588,10 @@ input, select, textarea {
 
 	#main {
 		background-image: url("images/AboutMe.jpg");
-		background-position: top left, top right, bottom left, bottom right;
+		-webkit-background-size:100%
 		background-repeat: no-repeat;
+		-moz-background-size: cover;
+		-o-background-size: cover;
 		background-size: contain;
 		padding: 7em 0;
 	}

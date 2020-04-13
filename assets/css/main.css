@@ -1729,7 +1729,7 @@ input, select, textarea {
 
 	header.special {
 		margin-bottom: 5em;
-		
+
 		position: relative;
 		text-align: left;
 	}
@@ -2590,7 +2590,7 @@ input, select, textarea {
 		background-image: url("images/AboutMe.jpg");
 		background-position: top left, top right, bottom left, bottom right;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: contain;
 		padding: 7em 0;
 	}
 

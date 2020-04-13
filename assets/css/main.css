@@ -2588,7 +2588,7 @@ input, select, textarea {
 
 				#main1 {
 					background-image: url("images/Home.jpg");
-					background-color: tomato;
+					background-color: cadetblue;
 					background-size: cover;
 					background-position: center center;
 					background-repeat: no-repeat;
@@ -2617,6 +2617,7 @@ input, select, textarea {
 		#main2 {
 			background-image: url("images/AboutMe.jpg");
 			background-size: cover;
+			background-color: cadetblue;
 	  	background-position: center center;
 	  	background-repeat: no-repeat;
 	  	position: relative;
@@ -2648,6 +2649,7 @@ input, select, textarea {
 			#main3 {
 				background-image: url("images/Experience.jpg");
 				background-size: cover;
+				background-color: cadetblue;
 		  	background-position: center center;
 		  	background-repeat: no-repeat;
 		  	position: relative;
@@ -2679,6 +2681,7 @@ input, select, textarea {
 				#main4 {
 					background-image: url("images/Skills.jpg");
 					background-size: cover;
+					background-color: cadetblue;
 			  	background-position: center center;
 			  	background-repeat: no-repeat;
 			  	position: relative;
@@ -2710,6 +2713,7 @@ input, select, textarea {
 					#main5 {
 						background-image: url("images/References.jpg");
 						background-size: cover;
+						background-color: cadetblue;
 				  	background-position: center center;
 				  	background-repeat: no-repeat;
 				  	position: relative;

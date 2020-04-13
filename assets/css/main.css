@@ -2588,6 +2588,7 @@ input, select, textarea {
 
 				#main1 {
 					background-image: url("images/Home.jpg");
+					background-color: tomato;
 					background-size: cover;
 					background-position: center center;
 					background-repeat: no-repeat;
